@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.fblogo{
+  height: 10vh;
+  width: 10vh;
+}
